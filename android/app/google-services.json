@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475699851165",
+    "project_id": "mysociety-693a7",
+    "storage_bucket": "mysociety-693a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475699851165:android:26de0a4b42b88433fa4974",
+        "android_client_info": {
+          "package_name": "com.example.housingsociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475699851165-itl4uq9ce1p2k3de13lu2p56d91647u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrcFFEyZTK4S2CQc9hF1LM6C_g7JQvhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475699851165-itl4uq9ce1p2k3de13lu2p56d91647u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475699851165-4cu8qj7voem4q405r98iakrm84ljjosv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housingsociety"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
